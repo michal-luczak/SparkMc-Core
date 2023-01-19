@@ -1,0 +1,4 @@
+name: SparkMc-SpigotCore
+version: '${project.version}'
+main: pl.sparkmc.sparkmcspigotcore.SparkSpigotCore
+api-version: 1.16
